@@ -12,7 +12,7 @@ First string is large text. For example
 Second string is a single word. For example "is"
 You will need to write a program that will remove all occurrences of the second string from the first string.
 Note: You will need to do this with pure for/while loops. Do not use any external functions like substring.
-#Solution : stringRemove.js
+# Solution : stringRemove.js
 
 
 Problem 2: You have been given a set of integers. You need to write a program that will divide a set in two subsets of n/2 sizes each such that the difference of the sum of two subsets is as minimum as possible.
@@ -22,4 +22,4 @@ Input =  {3, 4, 5, 3, 100, 1, 83, 54, 23, 20}
 Output = {4, 100, 1, 23, 20} and {3, 5, 3, 83, 54}.
 Also print the sum of each set.
 Both output subsets are of size 5 and sum of elements in both subsets is same (148 and 148).
-#Solution : 
+# Solution : 
