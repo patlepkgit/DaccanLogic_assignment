@@ -22,4 +22,4 @@ Input =  {3, 4, 5, 3, 100, 1, 83, 54, 23, 20}
 Output = {4, 100, 1, 23, 20} and {3, 5, 3, 83, 54}.
 Also print the sum of each set.
 Both output subsets are of size 5 and sum of elements in both subsets is same (148 and 148).
-# Solution : partitionArray
+# Solution : partitionArray.js
